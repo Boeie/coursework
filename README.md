@@ -1,2 +1,2 @@
 # coursework
-Built special for coursework completion
+Built specially for coursework completion
